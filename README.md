@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Learning Journey
+# 🔐 Cybersecurity 
 
 Welcome to my cybersecurity journey — from foundational networking and Linux to advanced ethical hacking tools and real-world labs.
 
@@ -13,7 +13,7 @@ Welcome to my cybersecurity journey — from foundational networking and Linux t
 
 ---
 
-## 🗂️ Folder Structure (Planned)
+## 🗂️ Folder Structure 
 
 ```bash
 Cybersecurity-Learning-Journey/
